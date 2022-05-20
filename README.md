@@ -48,12 +48,12 @@
 ![Screenshot 2022-05-20 101825](https://user-images.githubusercontent.com/61321123/169486434-f7fcee50-0884-4204-9e7e-cf968408451a.png)
 
 
-## Wrong function input as max < min
+## Wrong input as max < min
 
 ![Screenshot 2022-05-20 101850](https://user-images.githubusercontent.com/61321123/169486436-8f1fb050-9d77-4c93-9854-20d4ad8cdb60.png)
 
 
-## Wrong min input since the input isn't numeric
+## Wrong min input since the input isn't a numeric
 
 ![Screenshot 2022-05-20 101444](https://user-images.githubusercontent.com/61321123/169486431-7ad43513-0869-4636-baa2-fe763ed817f6.png)
 
